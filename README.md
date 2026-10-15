@@ -26,6 +26,5 @@ This project analyzes classic movie ratings using the MovieLens dataset and pres
 - `movielens.pbix` – Power BI report file (if allowed)
 - `data/` – Sample or transformed dataset (if allowed)
 
-## Insights Summary
-- Add 3–5 bullet points about what you discovered from the data
+
 
